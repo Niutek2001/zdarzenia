@@ -1,0 +1,10 @@
+body {
+	padding: 30px;
+	font-family: "Arial";
+	font-size: 20pt;
+}
+table {
+	width: 200px;
+	border: solid 2px;
+	text-align: center;
+}
