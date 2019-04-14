@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang=pl>
+	<head>
+		<meta charset=utf-8>
+		<link rel="stylesheet" type="text/css" href="style/style.css" />
+	</head>
+	<body>
+	<script src="scripts/script.js"></script>
+	<div id=formularz>
+		<span id=tytul>Formularz</span><br><br>
+		<form>
+			Login:
+					<input type=text id=login name="login"><br>
+			Twoje zainteresowanie:
+				<select name="zainteresowanie" id=zaint>
+					<option disabled selected>wybierz</option>
+					<option value="wioslarstwo">wioślarstwo</option>
+					<option value="narciarstwo">narciarstwo</option>
+					<option value="programowanie">programowanie</option>
+					<option value="inne">inne</option>
+				</select><br><br>
+			<button class=przycisk onclick="send()">Wyślij</button>
+			<button class=przycisk type="reset" onclick="rest()">Reset</button>
+		</form>
+	</div>
+	<div id=podpisA></div>
+	<div onmouseover="hover()" onmouseleave="restart()" id=zdjecie>
+	<img src=images/cow.png id=cow>
+	</div>
+	<div id=podpis></div>
+	</body>
+<html>
