@@ -16,21 +16,21 @@ a {
 	text-align: center;
 }
 #one {
-	position: absolute;
+	position: relative;
 	width: 30%;
 	height: auto;
 	left: 10%;
 	top: auto;
 }
 #two {
-	position: absolute;
+	position: relative;
 	width: 30%;
 	height: auto;
 	left: 60%;
 	top: auto;
 }
 #title {
-	position: absolute;
+	position: relative;
 	width: 60%;
 	height: 20%;
 	left: 20%;
