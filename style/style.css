@@ -16,17 +16,15 @@ a {
 	text-align: center;
 }
 #one {
-	position: relative;
-	width: 30%;
-	height: auto;
-	left: 10%;
-	top: auto + 10%;
+	position: absolute;
 }
 #two {
+	position: absolute;
+}
+#box2 {
 	position: relative;
-	width: 30%;
+	width: 100%;
 	height: auto;
-	left: 60%;
 	top: auto;
 }
 #title {
