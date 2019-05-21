@@ -18,16 +18,16 @@ a {
 #one {
 	position: absolute;
 	width: 30%;
-	height: 15%;
+	height: auto;
 	left: 10%;
-	top: 30%;
+	top: auto;
 }
 #two {
 	position: absolute;
 	width: 30%;
-	height: 15%;
+	height: auto;
 	left: 60%;
-	top: 30%;
+	top: auto;
 }
 #title {
 	position: absolute;
@@ -36,9 +36,4 @@ a {
 	left: 20%;
 	top: 5%;
 	font-size: 30pt;
-}
-#pasek {
-	position: relative;
-	width: 100%;
-	border: solid;
 }
