@@ -20,7 +20,7 @@ a {
 	width: 30%;
 	height: auto;
 	left: 10%;
-	top: auto;
+	top: auto + 10%;
 }
 #two {
 	position: relative;
