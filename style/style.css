@@ -17,11 +17,11 @@ a {
 }
 #one {
 	position: absolute;
-	float: left;
+	left: 10%;
 }
 #two {
 	position: absolute;
-	float: right;
+	right: 10%
 }
 #box2 {
 	position: relative;
