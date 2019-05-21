@@ -40,4 +40,5 @@ a {
 #pasek {
 	position: relative;
 	width: 100%;
+	border: solid;
 }
