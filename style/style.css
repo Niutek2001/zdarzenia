@@ -37,3 +37,6 @@ a {
 	top: 5%;
 	font-size: 30pt;
 }
+#pasek {
+	position: relative;
+}
